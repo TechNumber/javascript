@@ -5,7 +5,7 @@
 19.0.3 / 2021-12-24
 ==================
  - [patch] set `namedComponents` option to match style guide
- - [deps] update `eslint-plugin-react`
+ - [deps] Changes in CHANGELOG for branch1 from new clone`
 
 19.0.2 / 2021-12-02
 ==================
