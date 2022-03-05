@@ -1,6 +1,6 @@
 19.0.4 / 2021-12-25
 ==================
- - republish to fix #2529
+ - Changes in CHANGELOG for branch1
 
 19.0.3 / 2021-12-24
 ==================
