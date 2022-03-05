@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+# Changes in README for branch1() {
 
 *A mostly reasonable approach to JavaScript*
 
