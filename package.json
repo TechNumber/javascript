@@ -33,7 +33,7 @@
     "react",
     "jsx"
   ],
-  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "author": "Changes in package.json for branch1 from new clone <hi@hshoff.com> (https://twitter.com/hshoff)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/airbnb/javascript/issues"
